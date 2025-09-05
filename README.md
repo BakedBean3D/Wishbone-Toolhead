@@ -81,5 +81,5 @@ Note - *I would not run this unless you have an AWD setup - it's decently heavy 
 
 ## Happy printing!
 
-*This is licensed under CC BY-NC 4.0*
+*This is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
 
